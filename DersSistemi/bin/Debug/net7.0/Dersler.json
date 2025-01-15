@@ -1,0 +1,30 @@
+[
+  {
+    "DersAdi": "Programlama 1",
+    "Kredi": 3,
+    "OgretimGorevlisi": {
+      "Bolum": "Bilgisayar M\u00FChendisli\u011Fi",
+      "Isim": "Ahmet Karanl\u0131k"
+    },
+    "KayitliOgrenciler": [
+      {
+        "OgrenciNo": "1",
+        "Isim": "Ali Yak\u0131n"
+      }
+    ]
+  },
+  {
+    "DersAdi": "Makine M\u00FChendisli\u011Fine Giri\u015F 1",
+    "Kredi": 4,
+    "OgretimGorevlisi": {
+      "Bolum": "Makine M\u00FChendisli\u011Fi",
+      "Isim": "Mehmet U\u00E7ar"
+    },
+    "KayitliOgrenciler": [
+      {
+        "OgrenciNo": "2",
+        "Isim": "Mehmet Uzak"
+      }
+    ]
+  }
+]

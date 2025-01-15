@@ -1,0 +1,39 @@
+[
+  {
+    "DersAdi": "Programlama 1",
+    "Kredi": 3,
+    "OgretimGorevlisi": {
+      "Bolum": "Bilgisayar M\u00FChendisli\u011Fi",
+      "Isim": "Refik Tanju Sirmen"
+    },
+    "KayitliOgrenciler": [
+      {
+        "OgrenciNo": "101",
+        "Isim": "Hamza Minta\u015F"
+      }
+    ]
+  },
+  {
+    "DersAdi": "Yaz\u0131l\u0131m M\u00FChendisli\u011Fine Giri\u015F 1",
+    "Kredi": 4,
+    "OgretimGorevlisi": {
+      "Bolum": "Yaz\u0131l\u0131m M\u00DChendisli\u011Fi",
+      "Isim": "Emrah Sar\u0131\u00E7i\u00E7ek"
+    },
+    "KayitliOgrenciler": [
+      {
+        "OgrenciNo": "102",
+        "Isim": "Salih Korkmaz"
+      }
+    ]
+  },
+  {
+    "DersAdi": "matematik ",
+    "Kredi": 4,
+    "OgretimGorevlisi": {
+      "Bolum": "Bilgisayar teknikeri",
+      "Isim": "erkan ayd\u0131n "
+    },
+    "KayitliOgrenciler": []
+  }
+]
